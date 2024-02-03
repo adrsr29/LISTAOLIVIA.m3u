@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ext" tvg-name=" LALIGATV BAR 4K" group-title="SPAIN", LALIGATV BAR 4K
-http://e883d9213667678c68c9653502ce1019.esp.modans.me:25461/bm86xBY6Qq/171768490990/26269?h=de4e120b80c6869ef461b4f26baa7700ab836b07&z=46.136.51.235&i=404061
 #EXTINF:-1 tvg-id="ext" tvg-name="M+ LaLigaTVHD" group-title="SPAIN",M+ LaLigaTVHD
 http://e883d9213667678c68c9653502ce1019.lig.modans.me:25461/bm86xBY6Qq/171768490990/26046?h=de4e120b80c6869ef461b4f26baa7700ab836b07&z=46.136.51.235&i=404061
 #EXTINF:-1 tvg-id="ext" tvg-name="M+ LaLigaTVHD+" group-title="SPAIN",M+ LaLigaTVHD+
